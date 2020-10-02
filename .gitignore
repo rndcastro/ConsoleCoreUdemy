@@ -352,3 +352,5 @@ MigrationBackup/
 #Visual Code
 .vscode
 .vs
+
+.DS_STORE
